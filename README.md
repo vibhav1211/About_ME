@@ -1,3 +1,2 @@
-* Final year Student.
-* Mathematics Department.
-* Indian Institiute of Technology Kharagpur.
+SDE at Bidgely technologies
+Indian Institiute of Technology Kharagpur. Mathematics Department.
